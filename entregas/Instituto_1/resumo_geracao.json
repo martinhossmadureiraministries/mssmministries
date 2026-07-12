@@ -1,0 +1,25 @@
+{
+  "created_docs": 105,
+  "errors": [],
+  "zips": [
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_arrependimento_e_fe.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_baptismo_e_ceia.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_crescimento_espiritual.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_fundamentos_do_aconselhamento_biblico.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_identidade_em_cristo.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_leitura_biblica.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_oracao_devocional.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_salvacao_e_novo_nascimento.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_santidade.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_seguir_a_cristo.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_vida_de_discipulo.zip",
+    "entregas/Instituto_1/EBE_Instituto_1_Curso_vida_de_obediencia.zip"
+  ],
+  "stats": {
+    "total": 1029,
+    "gerados": 105,
+    "pendentes": 924,
+    "falhados": 0,
+    "percentagem": 10.2
+  }
+}

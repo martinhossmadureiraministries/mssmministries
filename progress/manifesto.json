@@ -26,11 +26,11 @@
       "curso": "Salvação e Novo Nascimento",
       "modulo": 1,
       "modulo_nome": "Fundamentos da Salvação",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:13.053906+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Salvação e Novo Nascimento/Módulo 1 — Fundamentos da Salvação/EBE-APO-002_A_Graça_de_Deus_em_Cristo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 3,
@@ -42,11 +42,11 @@
       "curso": "Salvação e Novo Nascimento",
       "modulo": 1,
       "modulo_nome": "Fundamentos da Salvação",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:13.180160+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Salvação e Novo Nascimento/Módulo 1 — Fundamentos da Salvação/EBE-APO-003_Fé_e_Arrependimento_como_Resposta.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 4,
@@ -58,11 +58,11 @@
       "curso": "Salvação e Novo Nascimento",
       "modulo": 2,
       "modulo_nome": "O Novo Nascimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:13.303648+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Salvação e Novo Nascimento/Módulo 2 — O Novo Nascimento/EBE-APO-004_O_Significado_Bíblico_de_Nascer_de_Novo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 5,
@@ -74,11 +74,11 @@
       "curso": "Salvação e Novo Nascimento",
       "modulo": 2,
       "modulo_nome": "O Novo Nascimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:13.427682+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Salvação e Novo Nascimento/Módulo 2 — O Novo Nascimento/EBE-APO-005_A_Obra_do_Espírito_Santo_na_Regeneração.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 6,
@@ -90,11 +90,11 @@
       "curso": "Salvação e Novo Nascimento",
       "modulo": 2,
       "modulo_nome": "O Novo Nascimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:13.562352+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Salvação e Novo Nascimento/Módulo 2 — O Novo Nascimento/EBE-APO-006_Sinais_de_uma_Vida_Regenerada.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 7,
@@ -106,11 +106,11 @@
       "curso": "Salvação e Novo Nascimento",
       "modulo": 3,
       "modulo_nome": "Vivendo a Nova Vida",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:13.684354+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Salvação e Novo Nascimento/Módulo 3 — Vivendo a Nova Vida/EBE-APO-007_Segurança_da_Salvação.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 8,
@@ -122,11 +122,11 @@
       "curso": "Salvação e Novo Nascimento",
       "modulo": 3,
       "modulo_nome": "Vivendo a Nova Vida",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:13.808370+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Salvação e Novo Nascimento/Módulo 3 — Vivendo a Nova Vida/EBE-APO-008_Crescendo_Após_o_Novo_Nascimento.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 9,
@@ -138,11 +138,11 @@
       "curso": "Salvação e Novo Nascimento",
       "modulo": 3,
       "modulo_nome": "Vivendo a Nova Vida",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:13.933689+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Salvação e Novo Nascimento/Módulo 3 — Vivendo a Nova Vida/EBE-APO-009_Testemunho_e_Confissão_da_Fé.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 10,
@@ -154,11 +154,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 1,
       "modulo_nome": "O Significado do Arrependimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:14.061987+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 1 — O Significado do Arrependimento/EBE-APO-010_Metanoia_Mudança_de_Mente_e_Direção.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 11,
@@ -170,11 +170,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 1,
       "modulo_nome": "O Significado do Arrependimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:14.187169+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 1 — O Significado do Arrependimento/EBE-APO-011_Arrependimento_Verdadeiro_e_Remorso.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 12,
@@ -186,11 +186,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 1,
       "modulo_nome": "O Significado do Arrependimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:14.310563+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 1 — O Significado do Arrependimento/EBE-APO-012_Frutos_Dignos_de_Arrependimento.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 13,
@@ -202,11 +202,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 2,
       "modulo_nome": "A Natureza da Fé Bíblica",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:14.438794+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 2 — A Natureza da Fé Bíblica/EBE-APO-013_Fé_como_Dom_de_Deus.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 14,
@@ -218,11 +218,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 2,
       "modulo_nome": "A Natureza da Fé Bíblica",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:14.563349+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 2 — A Natureza da Fé Bíblica/EBE-APO-014_Fé_que_Justifica.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 15,
@@ -234,11 +234,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 2,
       "modulo_nome": "A Natureza da Fé Bíblica",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:14.691586+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 2 — A Natureza da Fé Bíblica/EBE-APO-015_A_Relação_entre_Fé_e_Obras.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 16,
@@ -250,11 +250,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 3,
       "modulo_nome": "Vivendo em Arrependimento e Fé",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:14.818486+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 3 — Vivendo em Arrependimento e Fé/EBE-APO-016_Arrependimento_Contínuo_na_Vida_Cristã.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 17,
@@ -266,11 +266,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 3,
       "modulo_nome": "Vivendo em Arrependimento e Fé",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:14.972147+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 3 — Vivendo em Arrependimento e Fé/EBE-APO-017_Fé_em_Tempos_de_Provação.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 18,
@@ -282,11 +282,11 @@
       "curso": "Arrependimento e Fé",
       "modulo": 3,
       "modulo_nome": "Vivendo em Arrependimento e Fé",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:15.133342+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Arrependimento e Fé/Módulo 3 — Vivendo em Arrependimento e Fé/EBE-APO-018_Exemplos_Bíblicos_de_Arrependimento_e_Fé.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 19,
@@ -298,11 +298,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 1,
       "modulo_nome": "O Baptismo nas Águas",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:15.274330+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 1 — O Baptismo nas Águas/EBE-APO-019_O_Significado_do_Baptismo_por_Imersão.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 20,
@@ -314,11 +314,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 1,
       "modulo_nome": "O Baptismo nas Águas",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:15.429414+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 1 — O Baptismo nas Águas/EBE-APO-020_O_Baptismo_de_Jesus_como_Modelo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 21,
@@ -330,11 +330,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 1,
       "modulo_nome": "O Baptismo nas Águas",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:15.568968+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 1 — O Baptismo nas Águas/EBE-APO-021_Quem_Deve_Ser_Baptizado.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 22,
@@ -346,11 +346,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 2,
       "modulo_nome": "A Ceia do Senhor",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:15.728366+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 2 — A Ceia do Senhor/EBE-APO-022_A_Instituição_da_Ceia.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 23,
@@ -362,11 +362,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 2,
       "modulo_nome": "A Ceia do Senhor",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:15.882255+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 2 — A Ceia do Senhor/EBE-APO-023_O_Significado_do_Pão_e_do_Vinho.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 24,
@@ -378,11 +378,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 2,
       "modulo_nome": "A Ceia do Senhor",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:16.029140+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 2 — A Ceia do Senhor/EBE-APO-024_Participando_da_Ceia_com_Reverência.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 25,
@@ -394,11 +394,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 3,
       "modulo_nome": "As Ordenanças na Vida da Igreja",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:16.169769+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 3 — As Ordenanças na Vida da Igreja/EBE-APO-025_Ordenanças_e_Sacramentos_Distinções.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 26,
@@ -410,11 +410,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 3,
       "modulo_nome": "As Ordenanças na Vida da Igreja",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:16.317222+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 3 — As Ordenanças na Vida da Igreja/EBE-APO-026_A_Prática_das_Ordenanças_na_Igreja_Local.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 27,
@@ -426,11 +426,11 @@
       "curso": "Baptismo e Ceia",
       "modulo": 3,
       "modulo_nome": "As Ordenanças na Vida da Igreja",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:16.517070+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Baptismo e Ceia/Módulo 3 — As Ordenanças na Vida da Igreja/EBE-APO-027_Preparação_Espiritual_para_as_Ordenanças.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 28,
@@ -442,11 +442,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 1,
       "modulo_nome": "Quem Somos em Cristo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:16.659474+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 1 — Quem Somos em Cristo/EBE-APO-028_Nova_Criatura_em_Cristo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 29,
@@ -458,11 +458,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 1,
       "modulo_nome": "Quem Somos em Cristo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:16.811775+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 1 — Quem Somos em Cristo/EBE-APO-029_Filhos_e_Filhas_de_Deus.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 30,
@@ -474,11 +474,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 1,
       "modulo_nome": "Quem Somos em Cristo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:16.931765+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 1 — Quem Somos em Cristo/EBE-APO-030_Justificados_e_Aceites_em_Cristo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 31,
@@ -490,11 +490,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 2,
       "modulo_nome": "Vivendo a Identidade Cristã",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:17.054250+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 2 — Vivendo a Identidade Cristã/EBE-APO-031_Vencendo_a_Condenação_e_a_Vergonha.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 32,
@@ -506,11 +506,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 2,
       "modulo_nome": "Vivendo a Identidade Cristã",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:17.180425+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 2 — Vivendo a Identidade Cristã/EBE-APO-032_Identidade_Versus_Desempenho.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 33,
@@ -522,11 +522,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 2,
       "modulo_nome": "Vivendo a Identidade Cristã",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:17.301361+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 2 — Vivendo a Identidade Cristã/EBE-APO-033_Permanecendo_em_Cristo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 34,
@@ -538,11 +538,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 3,
       "modulo_nome": "Identidade em Cristo e Missão",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:17.423103+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 3 — Identidade em Cristo e Missão/EBE-APO-034_Embaixadores_de_Cristo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 35,
@@ -554,11 +554,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 3,
       "modulo_nome": "Identidade em Cristo e Missão",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:17.549765+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 3 — Identidade em Cristo e Missão/EBE-APO-035_Sacerdócio_Real_e_Nação_Santa.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 36,
@@ -570,11 +570,11 @@
       "curso": "Identidade em Cristo",
       "modulo": 3,
       "modulo_nome": "Identidade em Cristo e Missão",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:17.666889+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Fundamentos da Fé/Identidade em Cristo/Módulo 3 — Identidade em Cristo e Missão/EBE-APO-036_Vivendo_com_Propósito_em_Cristo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 37,
@@ -586,11 +586,11 @@
       "curso": "Santidade",
       "modulo": 1,
       "modulo_nome": "Fundamentos da Santidade",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:17.792246+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 1 — Fundamentos da Santidade/EBE-APO-037_O_Caráter_Santo_de_Deus.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 38,
@@ -602,11 +602,11 @@
       "curso": "Santidade",
       "modulo": 1,
       "modulo_nome": "Fundamentos da Santidade",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:17.914827+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 1 — Fundamentos da Santidade/EBE-APO-038_Santidade_Posicional_e_Santidade_Prática.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 39,
@@ -618,11 +618,11 @@
       "curso": "Santidade",
       "modulo": 1,
       "modulo_nome": "Fundamentos da Santidade",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:18.037242+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 1 — Fundamentos da Santidade/EBE-APO-039_Separados_para_Deus.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 40,
@@ -634,11 +634,11 @@
       "curso": "Santidade",
       "modulo": 2,
       "modulo_nome": "O Caminho da Santificação",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:18.157938+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 2 — O Caminho da Santificação/EBE-APO-040_A_Obra_do_Espírito_na_Santificação.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 41,
@@ -650,11 +650,11 @@
       "curso": "Santidade",
       "modulo": 2,
       "modulo_nome": "O Caminho da Santificação",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:18.284151+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 2 — O Caminho da Santificação/EBE-APO-041_Mortificando_a_Carne.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 42,
@@ -666,11 +666,11 @@
       "curso": "Santidade",
       "modulo": 2,
       "modulo_nome": "O Caminho da Santificação",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:18.413378+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 2 — O Caminho da Santificação/EBE-APO-042_Vestindo_o_Novo_Homem.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 43,
@@ -682,11 +682,11 @@
       "curso": "Santidade",
       "modulo": 3,
       "modulo_nome": "Santidade na Vida Diária",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:18.537563+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 3 — Santidade na Vida Diária/EBE-APO-043_Santidade_no_Pensamento_e_na_Palavra.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 44,
@@ -698,11 +698,11 @@
       "curso": "Santidade",
       "modulo": 3,
       "modulo_nome": "Santidade na Vida Diária",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:18.655830+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 3 — Santidade na Vida Diária/EBE-APO-044_Santidade_nas_Relações.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 45,
@@ -714,11 +714,11 @@
       "curso": "Santidade",
       "modulo": 3,
       "modulo_nome": "Santidade na Vida Diária",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:18.777530+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Santidade/Módulo 3 — Santidade na Vida Diária/EBE-APO-045_Perseverando_na_Santidade.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 46,
@@ -730,11 +730,11 @@
       "curso": "Oração Devocional",
       "modulo": 1,
       "modulo_nome": "Fundamentos da Oração",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:18.899274+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 1 — Fundamentos da Oração/EBE-APO-046_O_que_é_Oração_Bíblica.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 47,
@@ -746,11 +746,11 @@
       "curso": "Oração Devocional",
       "modulo": 1,
       "modulo_nome": "Fundamentos da Oração",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:19.021860+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 1 — Fundamentos da Oração/EBE-APO-047_Por_que_Orar.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 48,
@@ -762,11 +762,11 @@
       "curso": "Oração Devocional",
       "modulo": 1,
       "modulo_nome": "Fundamentos da Oração",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:19.153216+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 1 — Fundamentos da Oração/EBE-APO-048_Obstáculos_à_Oração.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 49,
@@ -778,11 +778,11 @@
       "curso": "Oração Devocional",
       "modulo": 2,
       "modulo_nome": "Praticando a Vida Devocional",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:19.304927+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 2 — Praticando a Vida Devocional/EBE-APO-049_Tempos_Diários_de_Oração.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 50,
@@ -794,11 +794,11 @@
       "curso": "Oração Devocional",
       "modulo": 2,
       "modulo_nome": "Praticando a Vida Devocional",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:19.469886+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 2 — Praticando a Vida Devocional/EBE-APO-050_O_Modelo_do_Pai_Nosso.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 51,
@@ -810,11 +810,11 @@
       "curso": "Oração Devocional",
       "modulo": 2,
       "modulo_nome": "Praticando a Vida Devocional",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:19.687443+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 2 — Praticando a Vida Devocional/EBE-APO-051_Oração_e_Jejum.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 52,
@@ -826,11 +826,11 @@
       "curso": "Oração Devocional",
       "modulo": 3,
       "modulo_nome": "Crescendo na Intimidade com Deus",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:19.836319+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 3 — Crescendo na Intimidade com Deus/EBE-APO-052_Escutando_a_Voz_de_Deus.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 53,
@@ -842,11 +842,11 @@
       "curso": "Oração Devocional",
       "modulo": 3,
       "modulo_nome": "Crescendo na Intimidade com Deus",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:19.994022+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 3 — Crescendo na Intimidade com Deus/EBE-APO-053_Diário_Devocional_e_Meditação.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 54,
@@ -858,11 +858,11 @@
       "curso": "Oração Devocional",
       "modulo": 3,
       "modulo_nome": "Crescendo na Intimidade com Deus",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:20.140106+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Oração Devocional/Módulo 3 — Crescendo na Intimidade com Deus/EBE-APO-054_Perseverança_na_Oração.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 55,
@@ -874,11 +874,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 1,
       "modulo_nome": "Por que Ler a Bíblia",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:20.283508+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 1 — Por que Ler a Bíblia/EBE-APO-055_A_Bíblia_como_Alimento_Espiritual.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 56,
@@ -890,11 +890,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 1,
       "modulo_nome": "Por que Ler a Bíblia",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:20.410103+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 1 — Por que Ler a Bíblia/EBE-APO-056_Hábitos_de_Leitura_Bíblica.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 57,
@@ -906,11 +906,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 1,
       "modulo_nome": "Por que Ler a Bíblia",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:20.531465+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 1 — Por que Ler a Bíblia/EBE-APO-057_Planos_de_Leitura_Anual.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 58,
@@ -922,11 +922,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 2,
       "modulo_nome": "Como Ler a Bíblia",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:20.654232+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 2 — Como Ler a Bíblia/EBE-APO-058_Lendo_com_Atenção_e_Reverência.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 59,
@@ -938,11 +938,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 2,
       "modulo_nome": "Como Ler a Bíblia",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:20.780101+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 2 — Como Ler a Bíblia/EBE-APO-059_Lendo_em_Contexto.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 60,
@@ -954,11 +954,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 2,
       "modulo_nome": "Como Ler a Bíblia",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:20.905748+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 2 — Como Ler a Bíblia/EBE-APO-060_Anotando_e_Meditando_no_Texto.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 61,
@@ -970,11 +970,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 3,
       "modulo_nome": "Aplicando a Leitura Bíblica",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:21.031735+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 3 — Aplicando a Leitura Bíblica/EBE-APO-061_Da_Leitura_à_Obediência.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 62,
@@ -986,11 +986,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 3,
       "modulo_nome": "Aplicando a Leitura Bíblica",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:21.154378+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 3 — Aplicando a Leitura Bíblica/EBE-APO-062_Memorização_de_Versículos-Chave.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 63,
@@ -1002,11 +1002,11 @@
       "curso": "Leitura Bíblica",
       "modulo": 3,
       "modulo_nome": "Aplicando a Leitura Bíblica",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:21.274338+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Leitura Bíblica/Módulo 3 — Aplicando a Leitura Bíblica/EBE-APO-063_Partilhando_o_que_se_Aprende.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 64,
@@ -1018,11 +1018,11 @@
       "curso": "Vida de Obediência",
       "modulo": 1,
       "modulo_nome": "O Chamado à Obediência",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:21.395457+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 1 — O Chamado à Obediência/EBE-APO-064_Obediência_como_Resposta_de_Amor.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 65,
@@ -1034,11 +1034,11 @@
       "curso": "Vida de Obediência",
       "modulo": 1,
       "modulo_nome": "O Chamado à Obediência",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:21.516944+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 1 — O Chamado à Obediência/EBE-APO-065_Exemplos_Bíblicos_de_Obediência.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 66,
@@ -1050,11 +1050,11 @@
       "curso": "Vida de Obediência",
       "modulo": 1,
       "modulo_nome": "O Chamado à Obediência",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:21.639343+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 1 — O Chamado à Obediência/EBE-APO-066_Obediência_e_Bênção.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 67,
@@ -1066,11 +1066,11 @@
       "curso": "Vida de Obediência",
       "modulo": 2,
       "modulo_nome": "Desafios da Obediência",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:21.768036+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 2 — Desafios da Obediência/EBE-APO-067_Obedecendo_Quando_é_Difícil.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 68,
@@ -1082,11 +1082,11 @@
       "curso": "Vida de Obediência",
       "modulo": 2,
       "modulo_nome": "Desafios da Obediência",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:21.887811+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 2 — Desafios da Obediência/EBE-APO-068_Vencendo_a_Desobediência_Habitual.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 69,
@@ -1098,11 +1098,11 @@
       "curso": "Vida de Obediência",
       "modulo": 2,
       "modulo_nome": "Desafios da Obediência",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:22.011698+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 2 — Desafios da Obediência/EBE-APO-069_Disciplina_e_Restauração.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 70,
@@ -1114,11 +1114,11 @@
       "curso": "Vida de Obediência",
       "modulo": 3,
       "modulo_nome": "Obediência e Frutificação",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:22.127376+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 3 — Obediência e Frutificação/EBE-APO-070_O_Fruto_de_uma_Vida_Obediente.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 71,
@@ -1130,11 +1130,11 @@
       "curso": "Vida de Obediência",
       "modulo": 3,
       "modulo_nome": "Obediência e Frutificação",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:22.252371+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 3 — Obediência e Frutificação/EBE-APO-071_Obediência_na_Família_e_no_Trabalho.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 72,
@@ -1146,11 +1146,11 @@
       "curso": "Vida de Obediência",
       "modulo": 3,
       "modulo_nome": "Obediência e Frutificação",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:22.373595+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Vida Cristã/Vida de Obediência/Módulo 3 — Obediência e Frutificação/EBE-APO-072_Obediência_até_ao_Fim.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 73,
@@ -1162,11 +1162,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 1,
       "modulo_nome": "O Convite de Jesus",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:22.498099+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 1 — O Convite de Jesus/EBE-APO-073_Vem_e_Segue-me.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 74,
@@ -1178,11 +1178,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 1,
       "modulo_nome": "O Convite de Jesus",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:22.623915+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 1 — O Convite de Jesus/EBE-APO-074_O_Custo_do_Discipulado.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 75,
@@ -1194,11 +1194,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 1,
       "modulo_nome": "O Convite de Jesus",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:22.803405+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 1 — O Convite de Jesus/EBE-APO-075_Negar-se_a_Si_Mesmo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 76,
@@ -1210,11 +1210,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 2,
       "modulo_nome": "Características do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:22.924908+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 2 — Características do Discípulo/EBE-APO-076_Permanecer_na_Palavra.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 77,
@@ -1226,11 +1226,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 2,
       "modulo_nome": "Características do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:23.053406+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 2 — Características do Discípulo/EBE-APO-077_Amar_como_Cristo_Amou.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 78,
@@ -1242,11 +1242,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 2,
       "modulo_nome": "Características do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:23.177220+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 2 — Características do Discípulo/EBE-APO-078_Levar_Fruto.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 79,
@@ -1258,11 +1258,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 3,
       "modulo_nome": "O Caminho do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:23.303200+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 3 — O Caminho do Discípulo/EBE-APO-079_Perseverança_no_Seguimento.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 80,
@@ -1274,11 +1274,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 3,
       "modulo_nome": "O Caminho do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:23.429875+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 3 — O Caminho do Discípulo/EBE-APO-080_Discipulado_em_Comunidade.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 81,
@@ -1290,11 +1290,11 @@
       "curso": "Seguir a Cristo",
       "modulo": 3,
       "modulo_nome": "O Caminho do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:23.556047+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Seguir a Cristo/Módulo 3 — O Caminho do Discípulo/EBE-APO-081_O_Discípulo_e_a_Missão.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 82,
@@ -1306,11 +1306,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 1,
       "modulo_nome": "Disciplinas do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:23.674933+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 1 — Disciplinas do Discípulo/EBE-APO-082_Estudo,_Oração_e_Jejum.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 83,
@@ -1322,11 +1322,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 1,
       "modulo_nome": "Disciplinas do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:23.800112+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 1 — Disciplinas do Discípulo/EBE-APO-083_Comunhão_e_Igreja_Local.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 84,
@@ -1338,11 +1338,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 1,
       "modulo_nome": "Disciplinas do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:23.927446+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 1 — Disciplinas do Discípulo/EBE-APO-084_Mordomia_e_Generosidade.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 85,
@@ -1354,11 +1354,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 2,
       "modulo_nome": "Caráter do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:24.067983+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 2 — Caráter do Discípulo/EBE-APO-085_Humildade_e_Serviço.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 86,
@@ -1370,11 +1370,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 2,
       "modulo_nome": "Caráter do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:24.203785+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 2 — Caráter do Discípulo/EBE-APO-086_Submissão_e_Aprendizagem.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 87,
@@ -1386,11 +1386,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 2,
       "modulo_nome": "Caráter do Discípulo",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:24.338435+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 2 — Caráter do Discípulo/EBE-APO-087_Integridade_no_Discipulado.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 88,
@@ -1402,11 +1402,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 3,
       "modulo_nome": "O Discípulo que Faz Discípulos",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:24.467219+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 3 — O Discípulo que Faz Discípulos/EBE-APO-088_O_Mandado_de_Mateus_28.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 89,
@@ -1418,11 +1418,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 3,
       "modulo_nome": "O Discípulo que Faz Discípulos",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:24.600170+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 3 — O Discípulo que Faz Discípulos/EBE-APO-089_Discipulando_Outros.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 90,
@@ -1434,11 +1434,11 @@
       "curso": "Vida de Discípulo",
       "modulo": 3,
       "modulo_nome": "O Discípulo que Faz Discípulos",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:24.736742+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Vida de Discípulo/Módulo 3 — O Discípulo que Faz Discípulos/EBE-APO-090_Multiplicação_de_Discípulos.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 91,
@@ -1450,11 +1450,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 1,
       "modulo_nome": "Princípios do Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:24.876225+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 1 — Princípios do Crescimento/EBE-APO-091_Do_Leite_à_Carne_Sólida.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 92,
@@ -1466,11 +1466,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 1,
       "modulo_nome": "Princípios do Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:24.998810+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 1 — Princípios do Crescimento/EBE-APO-092_Estágios_da_Maturidade_Cristã.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 93,
@@ -1482,11 +1482,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 1,
       "modulo_nome": "Princípios do Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:25.127251+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 1 — Princípios do Crescimento/EBE-APO-093_Obstáculos_ao_Crescimento.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 94,
@@ -1498,11 +1498,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 2,
       "modulo_nome": "Meios de Graça para o Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:25.251709+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 2 — Meios de Graça para o Crescimento/EBE-APO-094_A_Palavra_como_Meio_de_Crescimento.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 95,
@@ -1514,11 +1514,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 2,
       "modulo_nome": "Meios de Graça para o Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:25.376286+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 2 — Meios de Graça para o Crescimento/EBE-APO-095_A_Oração_como_Meio_de_Crescimento.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 96,
@@ -1530,11 +1530,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 2,
       "modulo_nome": "Meios de Graça para o Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:25.498935+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 2 — Meios de Graça para o Crescimento/EBE-APO-096_A_Comunhão_como_Meio_de_Crescimento.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 97,
@@ -1546,11 +1546,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 3,
       "modulo_nome": "Avaliando o Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:25.624481+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 3 — Avaliando o Crescimento/EBE-APO-097_Sinais_de_Maturidade_Espiritual.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 98,
@@ -1562,11 +1562,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 3,
       "modulo_nome": "Avaliando o Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:25.752662+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 3 — Avaliando o Crescimento/EBE-APO-098_Mentoria_e_Acompanhamento.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 99,
@@ -1578,11 +1578,11 @@
       "curso": "Crescimento Espiritual",
       "modulo": 3,
       "modulo_nome": "Avaliando o Crescimento",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:25.931523+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Discipulado/Crescimento Espiritual/Módulo 3 — Avaliando o Crescimento/EBE-APO-099_Metas_de_Crescimento_Pessoal.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 100,
@@ -1594,11 +1594,11 @@
       "curso": "Fundamentos do Aconselhamento Bíblico",
       "modulo": 1,
       "modulo_nome": "O que é Aconselhamento Bíblico",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:26.058123+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Aconselhamento Bíblico Introdutório/Fundamentos do Aconselhamento Bíblico/Módulo 1 — O que é Aconselhamento Bíblico/EBE-APO-100_O_Aconselhamento_Segundo_as_Escrituras.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 101,
@@ -1610,11 +1610,11 @@
       "curso": "Fundamentos do Aconselhamento Bíblico",
       "modulo": 1,
       "modulo_nome": "O que é Aconselhamento Bíblico",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:26.187909+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Aconselhamento Bíblico Introdutório/Fundamentos do Aconselhamento Bíblico/Módulo 1 — O que é Aconselhamento Bíblico/EBE-APO-101_Diferença_entre_Aconselhamento_Bíblico_e_Psicologia_Secular.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 102,
@@ -1626,11 +1626,11 @@
       "curso": "Fundamentos do Aconselhamento Bíblico",
       "modulo": 1,
       "modulo_nome": "O que é Aconselhamento Bíblico",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:26.315777+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Aconselhamento Bíblico Introdutório/Fundamentos do Aconselhamento Bíblico/Módulo 1 — O que é Aconselhamento Bíblico/EBE-APO-102_O_Conselheiro_como_Instrumento_de_Deus.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 103,
@@ -1642,11 +1642,11 @@
       "curso": "Fundamentos do Aconselhamento Bíblico",
       "modulo": 2,
       "modulo_nome": "Princípios do Cuidado Pastoral",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:26.438020+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Aconselhamento Bíblico Introdutório/Fundamentos do Aconselhamento Bíblico/Módulo 2 — Princípios do Cuidado Pastoral/EBE-APO-103_Escuta_Ativa_e_Empatia_Cristã.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 104,
@@ -1658,11 +1658,11 @@
       "curso": "Fundamentos do Aconselhamento Bíblico",
       "modulo": 2,
       "modulo_nome": "Princípios do Cuidado Pastoral",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:26.562331+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Aconselhamento Bíblico Introdutório/Fundamentos do Aconselhamento Bíblico/Módulo 2 — Princípios do Cuidado Pastoral/EBE-APO-104_Aconselhando_com_a_Palavra_de_Deus.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 105,
@@ -1674,11 +1674,11 @@
       "curso": "Fundamentos do Aconselhamento Bíblico",
       "modulo": 2,
       "modulo_nome": "Princípios do Cuidado Pastoral",
-      "status": "pendente",
-      "data_geracao": null,
-      "caminho": null,
+      "status": "gerado",
+      "data_geracao": "2026-07-12T04:44:26.687600+00:00",
+      "caminho": "apostilas/Instituto de Formação Cristã/Escola de Aconselhamento Bíblico Introdutório/Fundamentos do Aconselhamento Bíblico/Módulo 2 — Princípios do Cuidado Pastoral/EBE-APO-105_Encaminhamento_e_Limites_do_Conselheiro_Leigo.docx",
       "erro": null,
-      "tentativas": 0
+      "tentativas": 1
     },
     {
       "id": 106,
@@ -16467,7 +16467,7 @@
   ],
   "metadata": {
     "criado_em": "2026-07-12T03:13:40.022311+00:00",
-    "ultima_actualizacao": "2026-07-12T04:26:39.206768+00:00",
+    "ultima_actualizacao": "2026-07-12T04:44:29.712137+00:00",
     "total_apostilas": 1029
   }
 }
