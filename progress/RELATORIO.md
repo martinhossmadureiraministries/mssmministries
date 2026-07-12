@@ -1,18 +1,15 @@
-# 📊 Progresso da Geração de Apostilas EBE
+# Progresso da Geracao de Apostilas EBE
 
 | Indicador | Valor |
 |---|---|
-| **Total de apostilas** | 1029 |
-| **Geradas** ✅ | 0 |
-| **Pendentes** ⏳ | 1029 |
-| **Falhadas** ❌ | 0 |
-| **Progresso** | 0.0% |
-| **Ritmo diário** | 10 apostilas/dia |
-| **Previsão de conclusão** | ~103 dias |
+| Total de apostilas | 1029 |
+| Geradas | 0 |
+| Pendentes | 1028 |
+| Falhadas | 1 |
+| Progresso | 0.0% |
+| Ritmo diario | 10 apostilas/dia |
+| Previsao de conclusao | ~103 dias |
 
-> Última actualização: __import__("datetime").datetime.now().strftime("%Y-%m-%d %H:%M UTC")
+> Ultima actualizacao: 2026-07-12 04:02 UTC
 
----
-
-*O manifesto em  é a única fonte de verdade.*
-*A exclusão de um .docx pelo utilizador NÃO implica regeneração — o sistema apenas consulta o manifesto.*
+O manifesto em progress/manifesto.json e a unica fonte de verdade.
