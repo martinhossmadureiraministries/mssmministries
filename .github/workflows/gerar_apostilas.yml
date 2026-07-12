@@ -1,20 +1,17 @@
 name: Gerar Apostilas EBE
 
 on:
-  # Execução diária às 06:00 UTC (07:00 em Lisboa/Luanda no inverno)
   schedule:
     - cron: '0 6 * * *'
 
-  # Execução manual com parâmetros
   workflow_dispatch:
     inputs:
       quantidade:
-        description: 'Número de apostilas a gerar nesta execução'
+        description: 'Numero de apostilas a gerar'
         required: false
         default: '10'
         type: string
 
-# Permissões para commit e push
 permissions:
   contents: write
 
@@ -27,25 +24,24 @@ jobs:
       QUANTIDADE: ${{ github.event.inputs.quantidade || '10' }}
 
     steps:
-      - name: Checkout do repositório
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      - name: Configurar Python 3.11
+      - name: Configurar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-                    cache: 'pip'
+          cache: 'pip'
           cache-dependency-path: 'requirements.txt'
 
-      - name: Instalar dependências
+      - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Garantir pasta _assets com logos
+      - name: Garantir pasta _assets
         run: |
           mkdir -p _assets
           for f in logo_ebe.png logo_emblema.png logo_marca_dagua.png logo_pequeno.png; do
@@ -58,80 +54,25 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          echo "🔢 Gerando até $QUANTIDADE apostila(s)..."
-          python3 gerador_apostila.py \
-            --api-key "$GEMINI_API_KEY" \
-            --quantidade "$QUANTIDADE"
+          echo "Gerando ate $QUANTIDADE apostila(s)..."
+          python3 gerador_apostila.py --api-key "$GEMINI_API_KEY" --quantidade "$QUANTIDADE"
 
-      - name: Gerar relatório de progresso
-        run: |
-          python3 -c "
-          import json, os, sys
-          sys.path.insert(0, '.')
-          from manifesto import carregar_manifesto, estatisticas
+      - name: Gerar relatorio de progresso
+        if: always()
+        run: python3 gerar_relatorio.py
 
-          manifesto = carregar_manifesto()
-          stats = estatisticas(manifesto)
-
-          # Calcular previsão de conclusão
-          ritmo_diario = 10  # apostilas por dia
-          pendentes = stats['pendentes'] + stats['falhados']
-          dias_restantes = (pendentes + ritmo_diario - 1) // ritmo_diario if pendentes > 0 else 0
-
-          # Gerar relatório
-          report = f'''# 📊 Progresso da Geração de Apostilas EBE
-
-          | Indicador | Valor |
-          |---|---|
-          | **Total de apostilas** | {stats[\"total\"]} |
-          | **Geradas** ✅ | {stats[\"gerados\"]} |
-          | **Pendentes** ⏳ | {stats[\"pendentes\"]} |
-          | **Falhadas** ❌ | {stats[\"falhados\"]} |
-          | **Progresso** | {stats[\"percentagem\"]}% |
-          | **Ritmo diário** | {ritmo_diario} apostilas/dia |
-          | **Previsão de conclusão** | ~{dias_restantes} dias |
-
-          > Última actualização: '''+__import__('datetime').datetime.now().strftime('%Y-%m-%d %H:%M UTC')+'''
-
-          ---
-
-          *O manifesto em \`progress/manifesto.json\` é a única fonte de verdade.*
-          *A exclusão de um .docx pelo utilizador NÃO implica regeneração — o sistema apenas consulta o manifesto.*
-          '''
-
-          with open('progress/RELATORIO.md', 'w', encoding='utf-8') as f:
-              f.write(report)
-
-          print(f'Relatório gerado: {stats[\"gerados\"]}/{stats[\"total\"]} ({stats[\"percentagem\"]}%)')
-          "
-
-      - name: Commit e push das mudanças
+      - name: Commit e push
         run: |
           git config user.name "EBE Bot"
           git config user.email "ebe-bot@epignosis.edu"
           git add -A
           if git diff --staged --quiet; then
-            echo "📭 Nenhuma mudança para commitar"
+            echo "Nenhuma mudanca para commitar"
           else
-            git commit -m "📖 Gerar apostilas: lote automático [skip ci]"
-            git push origin HEAD:${{ github.ref_name }}
+            git commit -m "Gerar apostilas: lote automatico [skip ci]"
+            git push
           fi
 
-      - name: Resumo da execução
+      - name: Resumo
         if: always()
-        run: |
-          python3 -c "
-          import json, sys, os
-          sys.path.insert(0, '.')
-          from manifesto import carregar_manifesto, estatisticas
-
-          if os.path.exists('progress/manifesto.json'):
-              manifesto = carregar_manifesto()
-              stats = estatisticas(manifesto)
-              print(f'📊 RESUMO: {stats[\"gerados\"]}/{stats[\"total\"]} apostilas geradas ({stats[\"percentagem\"]}%)')
-              print(f'   ✅ Geradas: {stats[\"gerados\"]}')
-              print(f'   ⏳ Pendentes: {stats[\"pendentes\"]}')
-              print(f'   ❌ Falhadas: {stats[\"falhados\"]}')
-          else:
-              print('⚠️  Manifesto não encontrado')
-          "
+        run: python3 mostrar_resumo.py
