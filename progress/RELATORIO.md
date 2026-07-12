@@ -3,13 +3,13 @@
 | Indicador | Valor |
 |---|---|
 | Total de apostilas | 1029 |
-| Geradas | 105 |
-| Pendentes | 924 |
+| Geradas | 345 |
+| Pendentes | 684 |
 | Falhadas | 0 |
-| Progresso | 10.2% |
+| Progresso | 33.5% |
 | Ritmo diario | 10 apostilas/dia |
-| Previsao de conclusao | ~93 dias |
+| Previsao de conclusao | ~69 dias |
 
-> Ultima actualizacao: 2026-07-12 04:44 UTC
+> Ultima actualizacao: 2026-07-12 04:57 UTC
 
 O manifesto em progress/manifesto.json e a unica fonte de verdade.
