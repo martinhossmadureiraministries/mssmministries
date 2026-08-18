@@ -13,8 +13,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 39
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 40
     },
     {
       "id": 2,
@@ -29,8 +29,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 3,
@@ -45,8 +45,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 4,
@@ -61,8 +61,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 5,
@@ -77,8 +77,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 6,
@@ -93,8 +93,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 7,
@@ -109,8 +109,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 8,
@@ -125,8 +125,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 9,
@@ -141,8 +141,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 10,
@@ -157,8 +157,8 @@
       "status": "falhou",
       "data_geracao": null,
       "caminho": null,
-      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use a newer model for the latest features and improvements. We recommend you to use the Interactions API (https://ai.google.dev/gemini-api/docs/migrate-to-interactions).', 'status': 'NOT_FOUND'}}",
-      "tentativas": 37
+      "erro": "Erro na chamada ao Gemini: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements.', 'status': 'NOT_FOUND'}}",
+      "tentativas": 38
     },
     {
       "id": 11,
@@ -16467,7 +16467,7 @@
   ],
   "metadata": {
     "criado_em": "2026-07-12T03:13:40.022311+00:00",
-    "ultima_actualizacao": "2026-08-17T06:27:56.451353+00:00",
+    "ultima_actualizacao": "2026-08-18T06:21:11.075656+00:00",
     "total_apostilas": 1029
   }
 }
