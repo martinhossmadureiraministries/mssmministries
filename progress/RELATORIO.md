@@ -10,6 +10,6 @@
 | Ritmo diario | 10 apostilas/dia |
 | Previsao de conclusao | ~103 dias |
 
-> Ultima actualizacao: 2026-09-05 09:33 UTC
+> Ultima actualizacao: 2026-09-06 09:47 UTC
 
 O manifesto em progress/manifesto.json e a unica fonte de verdade.
